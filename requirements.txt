@@ -1,0 +1,8 @@
+Django
+psycopg2
+djangorestframework
+djoser
+drf-yasg
+django-filter
+social-auth-app-django
+
